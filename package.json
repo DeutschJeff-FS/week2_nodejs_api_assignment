@@ -4,7 +4,8 @@
   "description": "Week2 NodeJS API Assignment",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon server"
   },
   "keywords": [
     "NodeJS",

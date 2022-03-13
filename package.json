@@ -1,0 +1,25 @@
+{
+  "name": "week2_nodejs_api_assignment",
+  "version": "1.0.0",
+  "description": "Week2 NodeJS API Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "NodeJS",
+    "API",
+    "Application",
+    "Jokes"
+  ],
+  "author": "Jeff Deutsch",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
